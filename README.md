@@ -66,12 +66,20 @@
 
 ## Training Loss for various models
 
+SSD ResNet
 ![SSD ResNet loss](https://user-images.githubusercontent.com/68558847/183293750-8ba6f7eb-fd9d-43d2-8be5-9178ab985a49.png)
+
+Faster RCNN
 ![Faster RCNN loss](https://user-images.githubusercontent.com/68558847/183293754-41cefef7-3339-4bee-ade5-cd016fca7a20.png)
 
 ## Mean Average Precision (mAP) individual model result
+SSD ResNet 50
 ![SSD ResNet 50](https://user-images.githubusercontent.com/68558847/183293794-68c5bae8-92ac-4a44-9cd9-f157cc6a1549.png)
+
+Faster RCNN
 ![faster RCNN](https://user-images.githubusercontent.com/68558847/183293801-e44ac4a4-e421-4e3c-a337-e8bd58c5b38d.png)
+
+YOLO V4
 ![YOLO_Graphs](https://user-images.githubusercontent.com/68558847/183293798-f9adf632-baf0-4f53-81fd-f1f1d38535d5.png)
 
 ## mAP Overall comparison
