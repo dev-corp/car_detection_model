@@ -11,7 +11,7 @@
 <ul>
 <li><b>Principle</b>: Utilize recently developed datasets to check the efficiency and viability of the Object Detection models to detect object in adverse weather conditions.</li>
 <li><b>Tech used</b>: Image Augmentation (creating data from existing data) and Transfer Learning Techniques (storing knowledge gained while solving one problem and applying it to a different but related problem). The model for object detection with no adverse conditions was trained on ImageNet dataset. This is fine tuned using various ML algorithms to train it in adverse conditions as well.</li>
-<li><b>ML models</b>: Various models like Yolo v4, Faster RCNN Resnet50 FPN, SSD Resnet 101 v1 FPN and SSD Resnet 50 v1 FPN were used to get the best results, SSD Resnet 50 v1 FPN giving the best results.</li>
+<li><b>ML models</b>: Various models like Yolo v4, Faster RCNN (Resnet 50 FPN), SSD (Resnet 101 FPN) and SSD (Resnet 50 FPN) were used to get the results, SSD (Resnet 50 FPN) giving the best results.</li>
 </ul>
 
 ## Dataset
