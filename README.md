@@ -33,6 +33,7 @@
 ## Phases
 <ul>
   <li> Data Augmentation and neglecting the Humans' image</li>
+  <li> Data Preprocessing: the actual image size was large thus the images are scaled into 640*640 so that a single batch can contain many images at a time</li>
   <li> Dividing the dataset into train, validation and test </li>
   <li> Choosing the model</li>
   <li> Training and then Evaluating the model</li> 
@@ -65,7 +66,7 @@
 ## References
 <ul>
 <li> DAWN Dataset Citation: KENK, Mourad (2020), “DAWN”, Mendeley Data, V3, doi: 10.17632/766ygrbt8y.3</li>
-<li> Additional Material: </li>
+<li> https://arxiv.org/pdf/2004.10934.pdf</li>
 </ul>
   
   
