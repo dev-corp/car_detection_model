@@ -11,7 +11,7 @@
 <ul>
 <li><b>Principle</b>: Utilized DAWN2020 dataset to check the efficiency of the already built object detection models to detect vehicles in adverse weather conditions.</li>
 <li><b>Tech used</b>: Image Augmentation (creating data from existing data) and Transfer Learning Techniques (storing knowledge gained while solving one problem and applying it to a different but related problem). The model for object detection with no adverse conditions was trained on ImageNet dataset. This is fine tuned using various ML algorithms to train it in adverse conditions as well (adaptive learning rate).</li>
-<li><b>ML models</b>: Various models like YOLO V4, SSD (Resnet 50 FPN), Faster RCNN (Resnet 50 FPN) and  were used to get the results, SSD (Resnet 50 FPN) giving the best results.</li>
+<li><b>ML models</b>: Various models like YOLO V4, SSD (Resnet 50 FPN), Faster RCNN (Resnet 50 FPN) and  were used to get the results, Faster RCNN (Resnet 50 FPN) giving the best results.</li>
 </ul>
 
 ## Dataset
