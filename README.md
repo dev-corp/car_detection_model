@@ -49,6 +49,7 @@
 
 ## The path followed
 <ul>
+  <li> Used CentOS Linux Distribution to train the model</li>
   <li> Studied various papers related to Object Detection and according to that tried different models one by one</li>
   <li> Performance is evaluated on the basis of mean Average Precision (mAP) value of the different models. The same is shown with help of the graph, table and the sample test image below</li>
   <li> The GitHub link from which the models' zip file was extracted and some of the research papers studied link is in the refernces below</li>
@@ -64,7 +65,7 @@
 ## Predicting the vehicles in Adverse Conditions using Faster RCNN
 ![50](https://user-images.githubusercontent.com/68558847/183274755-d2ccfb3f-85ee-4f79-baec-aa27c7e3cdbb.png)
 
-## Training Loss for various models
+## Training and Testing Loss for various models
 
 SSD ResNet
 
