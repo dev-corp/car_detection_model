@@ -69,6 +69,12 @@
 ## Mean Average Precision (mAP) values
 ![MAP value compare](https://user-images.githubusercontent.com/68558847/183293704-b6aad73e-ddc4-4e4d-aedb-7292e1ae112a.png)
 
+## Training Loss for various models
+
+![SSD ResNet loss](https://user-images.githubusercontent.com/68558847/183293750-8ba6f7eb-fd9d-43d2-8be5-9178ab985a49.png)
+
+![Faster RCNN loss](https://user-images.githubusercontent.com/68558847/183293754-41cefef7-3339-4bee-ade5-cd016fca7a20.png)
+
 
 ## Improvement scope
 <ul>
