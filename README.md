@@ -32,7 +32,7 @@
 
 ## Phases
 <ul>
-  <li> Data Preprocessing: Data Augmentation and neglecting the humans' image from the dataset</li>
+  <li> Data Augmentation and neglecting the Humans' image</li>
   <li> Dividing the dataset into train, validation and test </li>
   <li> Choosing the model</li>
   <li> Training and then Evaluating the model</li> 
