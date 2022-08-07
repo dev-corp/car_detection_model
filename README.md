@@ -63,6 +63,7 @@
   <li> Studied various papers related to Object Detection and according to that tried different models one by one</li>
   <li> The result is found out on the basis of mean Average Precision (mAP) value of the different models. The same is shown with help of the graph, table and the sample test image below</li>
   <li> The GitHub link from which the models' zip file was extracted and some of the research papers studied link is in the refernces below</li>
+  <li> As we progressed, we kept on doing hyperparameter tuning such as taking different initial learning rate, variance of learning rate, backpropagation process, number of layers, etc.</li>
 </ul>
 
 ## References
