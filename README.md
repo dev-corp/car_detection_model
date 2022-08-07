@@ -68,6 +68,9 @@
 <ul>
 <li> DAWN Dataset Citation: KENK, Mourad (2020), “DAWN”, Mendeley Data, V3, doi: 10.17632/766ygrbt8y.3</li>
 <li> https://arxiv.org/pdf/2004.10934.pdf</li>
+<li> https://proceedings.neurips.cc/paper/2015/file/14bfa6bb14875e45bba028a21ed38046-Paper.pdf</li>
+<li> https://arxiv.org/pdf/1912.06319.pdf </li>
+<li> https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md </li>
 </ul>
   
   
