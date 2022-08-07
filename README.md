@@ -33,7 +33,7 @@
 ## Phases
 <ul>
   <li> Data Augmentation (via ImageDataGenerator Class): rotation, shearing, Zooming, cropping, flipping and changing the brightness level. Also, neglecting the Humans' image</li>
-  <li> Data Preprocessing: the actual image size was large thus the images are scaled into 640*640 so that computation can be reduced</li>
+  <li> Data Preprocessing: the actual image size was large thus the images are scaled into 640*640*3 (RGB) so that computation can be reduced</li>
   <li> Dividing the dataset into train, validation and test </li>
   <li> Choosing the model</li>
   <li> Training and then Evaluating the model</li> 
