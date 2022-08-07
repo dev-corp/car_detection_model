@@ -37,7 +37,6 @@
 </ul>
 
 ## Predicting the vehicles in Adverse Conditions using YOLOV4
-![Training phase accuracy](https://user-images.githubusercontent.com/68558847/183274335-879e1b0b-63aa-4307-beda-fc06bea15ddc.png)
 ![1](https://user-images.githubusercontent.com/68558847/183274338-c7870ec4-b6e9-4259-8e95-309e12e9c384.jpg)
 
 ## Predicting the vehicles in Adverse Conditions using Faster RCNN
