@@ -76,7 +76,7 @@
 ![faster RCNN](https://user-images.githubusercontent.com/68558847/183293801-e44ac4a4-e421-4e3c-a337-e8bd58c5b38d.png)
 ![YOLO_Graphs](https://user-images.githubusercontent.com/68558847/183293798-f9adf632-baf0-4f53-81fd-f1f1d38535d5.png)
 
-mAP overall comparision
+## mAP Overall comparison
 ![MAP value compare](https://user-images.githubusercontent.com/68558847/183293704-b6aad73e-ddc4-4e4d-aedb-7292e1ae112a.png)
 
 
