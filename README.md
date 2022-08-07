@@ -55,6 +55,13 @@
 ## Predicting the vehicles in Adverse Conditions using Faster RCNN
 ![50](https://user-images.githubusercontent.com/68558847/183274755-d2ccfb3f-85ee-4f79-baec-aa27c7e3cdbb.png)
 
+## The path followed
+<ul>
+  <li> Studied various papers related to Object Detection and according to that tried different models one by one</li>
+  <li> The result is found out on the basis of mean Average Precision (mAP) value of the different models. The same is shown with help of the graph, table and the sample test image below</li>
+  <li> The GitHub link from which the models' zip file was extracted and some of the research papers studied link is in the refernces below</li>
+</ul>
+
 ## References
 <ul>
 <li> DAWN Dataset Citation: KENK, Mourad (2020), “DAWN”, Mendeley Data, V3, doi: 10.17632/766ygrbt8y.3</li>
