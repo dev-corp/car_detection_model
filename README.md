@@ -18,7 +18,7 @@
 <ul>
 <li>DAWN dataset (1027 images of both vehicles(major) and humans)</li>
 <li>300 images of fog, 200 of rain, 323 of sand and 204 images of snow</li>
-<li>The dataset is annotated using LabelMe for 6 types of vehicles(Bicycle, Bus, Car, MotorCycle, Train, Truck).</li></br>
+<li>The bounding box is created using LabelMe for 6 types of vehicles(Bicycle, Bus, Car, MotorCycle, Train, Truck). The dataset was originally numbered as 1,2,3 and so on. We passed it along with a pipeline.config file and then used LabelMe.</li></br>
 </ul>
 
 ## Dawn Dataset Statistics
@@ -49,7 +49,7 @@
 
 ## The path followed
 <ul>
-  <li> Used CentOS Linux Distribution to train the model</li>
+  <li> Used CentOS Linux Distribution to train the model and nvidia GTX 1080 Ti GPU</li>
   <li> Studied various papers related to Object Detection and according to that tried different models one by one</li>
   <li> Performance is evaluated on the basis of mean Average Precision (mAP) value of the different models. The same is shown with help of the graph, table and the sample test image below</li>
   <li> The GitHub link from which the models' zip file was extracted and some of the research papers studied link is in the refernces below</li>
