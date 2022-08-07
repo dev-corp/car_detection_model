@@ -11,7 +11,7 @@
 <ul>
 <li><b>Principle</b>: Utilized DAWN2020 dataset to check the efficiency of the already built object detection models to detect vehicles in adverse weather conditions.</li>
 <li><b>Tech used</b>: Image Augmentation (creating data from existing data) and Transfer Learning Techniques (storing knowledge gained while solving one problem and applying it to a different but related problem). The model for object detection with no adverse conditions was trained on ImageNet dataset. This is fine tuned using various ML algorithms to train it in adverse conditions as well (adaptive learning rate).</li>
-<li><b>ML models</b>: Various models like SSD (Resnet 50 FPN), Yolo v4, Faster RCNN (Resnet 50 FPN) and  were used to get the results, SSD (Resnet 50 FPN) giving the best results.</li>
+<li><b>ML models</b>: Various models like YOLO V4, SSD (Resnet 50 FPN), Faster RCNN (Resnet 50 FPN) and  were used to get the results, SSD (Resnet 50 FPN) giving the best results.</li>
 </ul>
 
 ## Dataset
@@ -48,11 +48,12 @@
     <li>Bounding Box Prediction</li>
 </ul>
 
+## Predicting the vehicles in Adverse Conditions using YOLOV4
+![1](https://user-images.githubusercontent.com/68558847/183274338-c7870ec4-b6e9-4259-8e95-309e12e9c384.jpg)
+
 ## Predicting the vehicles in Adverse Conditions using SSD (RESNET 50)
 ![1](https://user-images.githubusercontent.com/68558847/183274539-7bfc7681-5e50-4883-a29d-33495efd2675.png)
 
-## Predicting the vehicles in Adverse Conditions using YOLOV4
-![1](https://user-images.githubusercontent.com/68558847/183274338-c7870ec4-b6e9-4259-8e95-309e12e9c384.jpg)
 
 ## Predicting the vehicles in Adverse Conditions using Faster RCNN
 ![50](https://user-images.githubusercontent.com/68558847/183274755-d2ccfb3f-85ee-4f79-baec-aa27c7e3cdbb.png)
