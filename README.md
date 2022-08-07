@@ -30,11 +30,22 @@
 ## Annotated images
 ![image](https://user-images.githubusercontent.com/68558847/183251774-9d1c42b7-4f4e-4808-8ff2-92059330c308.png)
 
-## Steps followed during the creation of Models
+## Phases
 <ul>
-<li>Data preprocessing</li>
-<li>Training, Validation, Testing phase of the Model</li>
+  <li> Data Preprocessing: Data Augmentation and neglecting the humans' image from the dataset</li>
+  <li> Dividing the dataset into train, validation and test </li>
+  <li> Choosing the model</li>
+  <li> Training and then Evaluating the model</li> 
+  <li> Make Predictions</li>
 </ul>
+
+## Steps followed during the Vehicle Detection 
+<ul>
+    <li>Feature Extraction</li>
+    <li>Feature Aggregation</li>
+    <li>Bounding Box Prediction</li>
+</ul>
+
 
 ## Predicting the vehicles in Adverse Conditions using YOLOV4
 ![1](https://user-images.githubusercontent.com/68558847/183274338-c7870ec4-b6e9-4259-8e95-309e12e9c384.jpg)
