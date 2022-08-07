@@ -16,7 +16,8 @@
 
 ## Dataset
 <ul>
-<li>DAWN dataset (1000 images of both vehicles(major) and humans)</li>
+<li>DAWN dataset (1027 images of both vehicles(major) and humans)</li>
+<li>300 images of fog, 200 of rain, 323 of sand and 204 images of snow</li>
 <li>Real world images under various adverse weather conditions like rain, snow, fog and sand storm comprises a collection of 1000 images. </li>
 <li>The dataset is annotated using LabelMe for 6 types of vehicles(Bicycle, Bus, Car, MotorCycle, Train, Truck).</li></br>
 </ul>
@@ -32,7 +33,7 @@
 
 ## Phases
 <ul>
-  <li> Data Augmentation and neglecting the Humans' image</li>
+  <li> Data Augmentation (via ImageDataGenerator Class) and neglecting the Humans' image</li>
   <li> Data Preprocessing: the actual image size was large thus the images are scaled into 640*640 so that a single batch can contain many images at a time</li>
   <li> Dividing the dataset into train, validation and test </li>
   <li> Choosing the model</li>
