@@ -66,6 +66,13 @@
   <li> As we progressed, we kept on doing hyperparameter tuning such as taking different initial learning rate, variance of learning rate, backpropagation process, number of layers, etc.</li>
 </ul>
 
+## Improvement scope
+<ul>
+  <li>Different Dataset</li>
+  <li>Hyperparameter tuning</li>
+  <li>Choosing different models</li>
+</ul>
+
 ## References
 <ul>
 <li> DAWN Dataset Citation: KENK, Mourad (2020), “DAWN”, Mendeley Data, V3, doi: 10.17632/766ygrbt8y.3</li>
