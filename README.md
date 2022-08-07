@@ -48,16 +48,6 @@
     <li>Bounding Box Prediction</li>
 </ul>
 
-## Predicting the vehicles in Adverse Conditions using YOLOV4
-![1](https://user-images.githubusercontent.com/68558847/183274338-c7870ec4-b6e9-4259-8e95-309e12e9c384.jpg)
-
-## Predicting the vehicles in Adverse Conditions using SSD (RESNET 50)
-![1](https://user-images.githubusercontent.com/68558847/183274539-7bfc7681-5e50-4883-a29d-33495efd2675.png)
-
-
-## Predicting the vehicles in Adverse Conditions using Faster RCNN
-![50](https://user-images.githubusercontent.com/68558847/183274755-d2ccfb3f-85ee-4f79-baec-aa27c7e3cdbb.png)
-
 ## The path followed
 <ul>
   <li> Studied various papers related to Object Detection and according to that tried different models one by one</li>
@@ -65,6 +55,20 @@
   <li> The GitHub link from which the models' zip file was extracted and some of the research papers studied link is in the refernces below</li>
   <li> As we progressed, we kept on doing hyperparameter tuning such as taking different initial learning rate, variance of learning rate, backpropagation process, number of layers, etc.</li>
 </ul>
+
+## Results
+## Predicting the vehicles in Adverse Conditions using YOLOV4
+![1](https://user-images.githubusercontent.com/68558847/183274338-c7870ec4-b6e9-4259-8e95-309e12e9c384.jpg)
+
+## Predicting the vehicles in Adverse Conditions using SSD (RESNET 50)
+![1](https://user-images.githubusercontent.com/68558847/183274539-7bfc7681-5e50-4883-a29d-33495efd2675.png)
+
+## Predicting the vehicles in Adverse Conditions using Faster RCNN
+![50](https://user-images.githubusercontent.com/68558847/183274755-d2ccfb3f-85ee-4f79-baec-aa27c7e3cdbb.png)
+
+## Mean Average Precision (mAP) values
+![MAP value compare](https://user-images.githubusercontent.com/68558847/183293704-b6aad73e-ddc4-4e4d-aedb-7292e1ae112a.png)
+
 
 ## Improvement scope
 <ul>
