@@ -17,8 +17,9 @@
 ## Dataset
 <ul>
 <li>DAWN dataset (1027 images of both vehicles(major) and humans)</li>
+<li> 6 types of vehicles(Bicycle, Bus, Car, MotorCycle, Train, Truck).</li>
 <li>300 images of fog, 200 of rain, 323 of sand and 204 images of snow</li>
-<li>The bounding box is created using LabelMe for 6 types of vehicles(Bicycle, Bus, Car, MotorCycle, Train, Truck). The dataset was originally numbered as 1,2,3 and so on. We passed it along with a pipeline.config file and then used LabelMe.</li></br>
+<li>The dataset was originally numbered as 1,2,3 and so on. LabelMe helped to identify the numbers 1,2,3..and then we manually fix the number with a type of vehicle. We passed it along with a pipeline.config file which has metadata in it. Via python script, the pipeline.config file runs and the model gets trained.</li></br>
 </ul>
 
 ## Dawn Dataset Statistics
