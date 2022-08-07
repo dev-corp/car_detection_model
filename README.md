@@ -51,13 +51,10 @@
 ![1](https://user-images.githubusercontent.com/68558847/183274338-c7870ec4-b6e9-4259-8e95-309e12e9c384.jpg)
 
 ## Predicting the vehicles in Adverse Conditions using Faster RCNN
-![1](https://user-images.githubusercontent.com/68558847/183274539-7bfc7681-5e50-4883-a29d-33495efd2675.png)
-
-## Predicting the vehicles in Adverse Conditions using SSD (RESNET 101)
-![101](https://user-images.githubusercontent.com/68558847/183274749-b69a4cf3-eeec-497c-a2f4-03f4bbe5bc86.png)
+![50](https://user-images.githubusercontent.com/68558847/183274755-d2ccfb3f-85ee-4f79-baec-aa27c7e3cdbb.png)
 
 ## Predicting the vehicles in Adverse Conditions using SSD (RESNET 50)
-![50](https://user-images.githubusercontent.com/68558847/183274755-d2ccfb3f-85ee-4f79-baec-aa27c7e3cdbb.png)
+![1](https://user-images.githubusercontent.com/68558847/183274539-7bfc7681-5e50-4883-a29d-33495efd2675.png)
 
 ## References
 <ul>
