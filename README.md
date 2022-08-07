@@ -1,4 +1,4 @@
-# Adverse Weather Object Detection using Customized Models.
+# Adverse Weather Object Detection using Customized Models
 
 ## Why this Project?
 <ul>
