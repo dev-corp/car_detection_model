@@ -10,7 +10,7 @@
 ## Abstract
 <ul>
 <li><b>Principle</b>: Utilized DAWN2020 dataset to check the efficiency of the already built object detection models to detect vehicles in adverse weather conditions.</li>
-<li><b>Tech used</b>: Image Augmentation (creating data from existing data) and Transfer Learning Techniques (storing knowledge gained while solving one problem and applying it to a different but related problem). The model for object detection with no adverse conditions was trained on ImageNet dataset. This is fine tuned using various ML algorithms to train it in adverse conditions as well.</li>
+<li><b>Tech used</b>: Image Augmentation (creating data from existing data) and Transfer Learning Techniques (storing knowledge gained while solving one problem and applying it to a different but related problem). The model for object detection with no adverse conditions was trained on ImageNet dataset. This is fine tuned using various ML algorithms to train it in adverse conditions as well (adaptive learning rate).</li>
 <li><b>ML models</b>: Various models like SSD (Resnet 50 FPN), Yolo v4, Faster RCNN (Resnet 50 FPN) and  were used to get the results, SSD (Resnet 50 FPN) giving the best results.</li>
 </ul>
 
@@ -33,7 +33,7 @@
 
 ## Phases
 <ul>
-  <li> Data Augmentation (via ImageDataGenerator Class) and neglecting the Humans' image</li>
+  <li> Data Augmentation (via ImageDataGenerator Class): rotation, shearing, Zooming, cropping, flipping and changing the brightness level. Also, neglecting the Humans' image</li>
   <li> Data Preprocessing: the actual image size was large thus the images are scaled into 640*640 so that a single batch can contain many images at a time</li>
   <li> Dividing the dataset into train, validation and test </li>
   <li> Choosing the model</li>
