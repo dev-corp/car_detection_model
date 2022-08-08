@@ -64,7 +64,8 @@
 ![1](https://user-images.githubusercontent.com/68558847/183274539-7bfc7681-5e50-4883-a29d-33495efd2675.png)
 
 ## Predicting the vehicles in Adverse Conditions using Faster RCNN
-![50](https://user-images.githubusercontent.com/68558847/183274755-d2ccfb3f-85ee-4f79-baec-aa27c7e3cdbb.png)
+
+![image](https://user-images.githubusercontent.com/68558847/183347036-9b059842-fb81-4db5-a392-cfac430b5fb1.png)
 
 ## Training and Testing Loss for various models
 
@@ -83,7 +84,7 @@ SSD ResNet 50
 
 Faster RCNN
 
-![image](https://user-images.githubusercontent.com/68558847/183347036-9b059842-fb81-4db5-a392-cfac430b5fb1.png)
+![faster RCNN](https://user-images.githubusercontent.com/68558847/183293801-e44ac4a4-e421-4e3c-a337-e8bd58c5b38d.png)
 
 YOLO V4
 
