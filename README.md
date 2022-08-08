@@ -83,7 +83,7 @@ SSD ResNet 50
 
 Faster RCNN
 
-![faster RCNN](https://user-images.githubusercontent.com/68558847/183293801-e44ac4a4-e421-4e3c-a337-e8bd58c5b38d.png)
+![image](https://user-images.githubusercontent.com/68558847/183347036-9b059842-fb81-4db5-a392-cfac430b5fb1.png)
 
 YOLO V4
 
