@@ -106,6 +106,7 @@ YOLO V4
 <ul>
 <li> Data collection</li>
 <li> High computational cost</li>
+<li> Difficulty in the initial phases due to pandemic</li>
 </ul>
 
 ## References
