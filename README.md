@@ -3,8 +3,9 @@
 ## Why this Project?
 <ul>
 <li> Adverse weather-related fatalities constituted about 16 % of total fatalities. This model if implemented with a hardware device and equipped within a vehicle will help mitigating these accidents.</li>
+<li> When integrated within a car, a warning message can be generated if a vehicle is detected.</li>
 <li> Self Drive Cars which are capable of cue assisstance during Taffic Jams, Collision Avoidance, etc. fail during conditions like heavy fog, rain, snow and sandstorms.</li>
-<li> CCTV cameras are unable to work perfectly during adverse weather conditions.</li>
+<li>It can be used with CCTV cameras which are unable to work perfectly during adverse weather conditions.</li>
 </ul>
 
 ## Abstract
