@@ -101,6 +101,12 @@ YOLO V4
   <li>Choosing different models</li>
 </ul>
 
+## Challenges
+<ul>
+<li> Data collection</li>
+<li> High computational cost</li>
+</ul>
+
 ## References
 <ul>
 <li> DAWN Dataset Citation: KENK, Mourad (2020), “DAWN”, Mendeley Data, V3, doi: 10.17632/766ygrbt8y.3</li>
